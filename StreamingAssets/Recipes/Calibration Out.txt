@@ -1,0 +1,6 @@
+Calibration Task:
+
+Robot is putting away not needed pineapples in a box.
+
+Ingredients/Tools
+Pineapples
